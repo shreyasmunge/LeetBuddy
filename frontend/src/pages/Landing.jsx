@@ -24,7 +24,7 @@ export default function Landing({ onStart }) {
       <div style={{ position: "relative", zIndex: 1 }}>
         {/* Nav */}
         <nav className="nav">
-          <span className="nav-logo">AlgoMatch</span>
+          <span className="nav-logo">LeetBuddy</span>
           <button className="btn btn-outline btn-sm" onClick={onStart}>Sign In</button>
         </nav>
 
